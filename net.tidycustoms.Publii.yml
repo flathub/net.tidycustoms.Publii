@@ -93,8 +93,8 @@ modules:
       # because generated-sources.json must be regenerated along with the tag.
       - type: git
         url: https://github.com/GetPublii/Publii.git
-        tag: v.0.47.9-build-17481
-        commit: d6d4961fcff5b1530ef583e2eac32322ea22a618
+        tag: v.0.48.3-build-17587
+        commit: 47b79cf045d650063cec74d48ef956e55cbe61cc
         dest: main
 
       # upstream creates sites/ and config/ only when the data folder is missing.
